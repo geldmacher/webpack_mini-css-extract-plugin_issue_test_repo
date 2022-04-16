@@ -1,8 +1,4 @@
-# webpack_issue_12099_test_repo
-
-Test repo for https://github.com/webpack/webpack/issues/12099
-
----
+# Test repo for mini-css-extract-plugin issue
 
 `npm run prod` for production build
 
